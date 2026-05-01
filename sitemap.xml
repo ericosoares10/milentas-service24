@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc>https://milentas-service24.de/</loc>
-        <lastmod>2026-05-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
+    <url><loc>https://milentas-service24.de/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://milentas-service24.de/hausmeisterservice</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+    <url><loc>https://milentas-service24.de/treppenhausreinigung</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+    <url><loc>https://milentas-service24.de/buroreinigung</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+    <url><loc>https://milentas-service24.de/winterdienst</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+    <url><loc>https://milentas-service24.de/gartenarbeit</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+    <url><loc>https://milentas-service24.de/gebaeudereinigung</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+    <url><loc>https://milentas-service24.de/fensterreinigung</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+    <url><loc>https://milentas-service24.de/grundreinigung</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+    <url><loc>https://milentas-service24.de/unterhaltsreinigung</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+    <url><loc>https://milentas-service24.de/charlottenburg</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://milentas-service24.de/kreuzberg</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://milentas-service24.de/mitte</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://milentas-service24.de/neukoelln</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://milentas-service24.de/prenzlauer-berg</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://milentas-service24.de/schoeneberg</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://milentas-service24.de/steglitz</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://milentas-service24.de/tempelhof</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://milentas-service24.de/wedding</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://milentas-service24.de/wilmersdorf</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://milentas-service24.de/friedrichshain</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://milentas-service24.de/lichtenberg</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://milentas-service24.de/marzahn</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://milentas-service24.de/pankow</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://milentas-service24.de/reinickendorf</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://milentas-service24.de/spandau</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://milentas-service24.de/treptow-koepenick</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
