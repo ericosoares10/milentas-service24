@@ -134,14 +134,25 @@
     .nav-logo-icon{height:40px;width:40px;display:none;object-fit:contain}
     @media(max-width:768px){.nav-logo-img{display:none}.nav-logo-icon{display:block}}
     </style>
+
+    <style>
+    .navbar { padding: 16px 0 !important; }
+    .nav-logo-img { height: 60px !important; width: auto !important; display: block; object-fit: contain; max-width: 250px !important; }
+    .nav-logo-icon { height: 50px !important; width: 50px !important; display: none; object-fit: contain; }
+    @media(max-width:768px){
+        .navbar { padding: 12px 0 !important; }
+        .nav-logo-img { display: none !important; }
+        .nav-logo-icon { display: block !important; }
+    }
+    </style>
 </head>
 <body>
     <!-- Navigation -->
     <nav class="navbar" role="navigation" aria-label="Hauptnavigation">
         <div class="container">
             <a href="/" class="logo" aria-label="Milentas Service24 – Hausmeisterservice Berlin">
-                <img src="assets/logo_horizontal.png" alt="Milentas Service24 Logo" class="nav-logo-img" width="220" height="44" loading="eager">
-                <img src="assets/logo_icon_only.png" alt="Milentas Service24" class="nav-logo-icon" width="40" height="40" loading="eager">
+                <img src="assets/logo_horizontal.png" alt="Milentas Service24 Logo" class="nav-logo-img" width="250" height="60" loading="eager">
+                <img src="assets/logo_icon_only.png" alt="Milentas Service24" class="nav-logo-icon" width="50" height="50" loading="eager">
             </a>
             <ul class="nav-links">
                 <li><a href="#leistungen">Leistungen</a></li>
